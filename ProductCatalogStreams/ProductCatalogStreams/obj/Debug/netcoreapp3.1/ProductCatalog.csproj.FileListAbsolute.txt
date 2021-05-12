@@ -1,0 +1,17 @@
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\ProductCatalog.exe
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\ProductCatalog.deps.json
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\ProductCatalog.runtimeconfig.json
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\ProductCatalog.runtimeconfig.dev.json
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\ProductCatalog.dll
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\ProductCatalog.pdb
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\Product_Library.dll
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\bin\Debug\netcoreapp3.1\Product_Library.pdb
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.dll
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.pdb
+C:\Users\LENOVO\OneDrive - Taazaa Tech Pvt Ltd\Desktop\ProductCatalogStreams\ProductCatalogStreams\obj\Debug\netcoreapp3.1\ProductCatalog.genruntimeconfig.cache
