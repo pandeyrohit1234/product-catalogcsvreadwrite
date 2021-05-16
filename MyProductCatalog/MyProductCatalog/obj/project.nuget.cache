@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X+jlHJnB1zrNO9CuGTrOZe4rM7eIBpP6TlPOKM3Ux7TVS0mEGEjhiQ7QbP5F56W8NEKhbYi9usJ3e7LZJ8CJfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\MyProductCatalog\\MyProductCatalog\\MyProductCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\csvhelper\\27.0.2\\csvhelper.27.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

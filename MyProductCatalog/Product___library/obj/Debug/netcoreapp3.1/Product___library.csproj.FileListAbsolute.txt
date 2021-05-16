@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\bin\Debug\netcoreapp3.1\Product___library.deps.json
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\bin\Debug\netcoreapp3.1\Product___library.dll
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\bin\Debug\netcoreapp3.1\Product___library.pdb
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\obj\Debug\netcoreapp3.1\Product___library.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\obj\Debug\netcoreapp3.1\Product___library.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\obj\Debug\netcoreapp3.1\Product___library.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\obj\Debug\netcoreapp3.1\Product___library.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\obj\Debug\netcoreapp3.1\Product___library.dll
+C:\Users\LENOVO\source\repos\MyProductCatalog\Product___library\obj\Debug\netcoreapp3.1\Product___library.pdb
